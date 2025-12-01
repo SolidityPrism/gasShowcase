@@ -1,3 +1,4 @@
+edit
 # Gas Optimization Playground - Benchmark & Practice
 
 ⚠️ **DISCLAIMER**: This repository contains **deliberately unoptimized smart contracts**. They are designed for educational purposes, gas auditing practice, and benchmarking optimization tools. **DO NOT USE THIS CODE IN PRODUCTION** without heavy refactoring.
